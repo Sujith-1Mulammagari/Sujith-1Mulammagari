@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sujith-1Mulammagari&label=Profile%20Views&color=0e75b6&style=flat)
 
 <!-- Wave Greeting -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrMEecVH/giphy.gif" width="25px"> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrMEecVH/giphy.gif" width="25px">
 
 # Hey there, I'm Sujith Kumar Reddy Mulammagari! 👨‍💻
 
@@ -17,12 +17,13 @@
 
 ## 🎯 About Me
 
-I'm a passionate **full-stack developer** and **cloud enthusiast** who loves building scalable applications and exploring the latest technologies. With expertise in Java, Python, and cloud infrastructure, I transform ideas into impactful solutions. 
+I'm a passionate **Full-Stack Developer** and **Cloud Enthusiast** who loves building scalable applications and exploring modern technologies. With expertise in Java, Python, Cloud Infrastructure, and DevOps practices, I enjoy transforming ideas into impactful solutions.
 
-- 🎬 **Content Creator**: Sharing knowledge on YouTube, Medium, and Instagram
-- 🚀 **Tech Passionate**: Constantly exploring new technologies and best practices
-- 💡 **Problem Solver**: Love tackling challenging problems with elegant solutions
-- 🌍 **Open Source Advocate**: Contributing to the developer community
+- 🚀 Building scalable applications and cloud-native solutions
+- ☁️ Exploring AWS, Docker, Linux, and DevOps tools
+- 💡 Passionate about problem-solving and software architecture
+- 📚 Continuous learner focused on improving technical skills
+- 🌍 Open to collaboration on exciting projects and opportunities
 
 ---
 
@@ -45,48 +46,21 @@ I'm a passionate **full-stack developer** and **cloud enthusiast** who loves bui
 
 ## 🌐 Connect With Me
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@sujithkumarreddy)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sujithkumarreddy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujithkumarreddymulammagari)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sujithkumarreddy)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujith-1Mulammagari&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujith-1Mulammagari&theme=tokyonight" width="48%" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujith-1Mulammagari&theme=tokyonight&layout=compact" width="50%" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sujith-1Mulammagari&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ---
 
 ## 💬 Let's Connect!
 
-I'm always open to collaborating on interesting projects, sharing knowledge, and connecting with fellow developers. Feel free to reach out through:
+I'm always open to collaborating on interesting projects, discussing technology, cloud computing, DevOps, software development, and new opportunities.
 
-- 📧 **LinkedIn**: [sujithkumarreddymulammagari](https://www.linkedin.com/in/sujithkumarreddymulammagari)
-- 🎥 **YouTube**: [@sujithkumarreddy](https://www.youtube.com/@sujithkumarreddy)
-- 📝 **Medium**: [@sujithkumarreddy](https://medium.com/@sujithkumarreddy)
-- 📸 **Instagram**: [@sujithkumarreddy](https://www.instagram.com/sujithkumarreddy)
+- 💼 **LinkedIn**: https://www.linkedin.com/in/sujithkumarreddymulammagari
 
 ---
 
 <div align="center">
 
-### 🚀 Let's build something amazing together! 
+### 🚀 Let's build something amazing together!
 **"Code today, transform tomorrow"**
 
 </div>
